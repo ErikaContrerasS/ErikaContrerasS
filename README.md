@@ -31,8 +31,12 @@
 <table border="1" cellpadding="14">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>erika:~$ cat tech-stack.yaml</code></th>
-    </tr>
+  <td colspan="2" valign="top">
+    <a href="https://github.com/ErikaContrerasS/helpdesk-agentes"><b>🤖 helpdesk-agentes</b></a><br>
+    Multi-agent help desk: 3 GitHub Copilot agents (triage, diagnosis, provisioning) backed by a deterministic Node.js rules engine. The LLM extracts data; the code decides.<br><br>
+    <sub><code>Node.js · GitHub Copilot Agents · Spec-driven</code></sub>
+  </td>
+</tr>
   </thead>
   <tbody>
     <tr>
