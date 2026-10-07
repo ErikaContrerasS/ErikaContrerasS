@@ -36,6 +36,16 @@
     Multi-agent help desk: 3 GitHub Copilot agents (triage, diagnosis, provisioning) backed by a deterministic Node.js rules engine. The LLM extracts data; the code decides.<br><br>
     <sub><code>Node.js · GitHub Copilot Agents · Spec-driven</code></sub>
   </td>
+      <tr>
+  <td valign="top"><code>HEAD</code></td>
+  <td><b>Full Stack Developer (Freelance) @ En Stock</b><br>
+  Internal quotation system for a B2B wholesaler connected to 5 supplier warehouses. Unified a 5,000-product catalog (Node.js, React).</td>
+</tr>
+<tr>
+  <td valign="top"><code>HEAD~1</code></td>
+  <td><b>Tech Lead / Full Stack Developer @ Konekthub (AMCL Group)</b><br>
+  Built a multitenant CRM from scratch: 15,000 active policies, 300,000 leads. Shipped an AI agent (GPT-4o + n8n) that raised scheduling effectiveness from 20% to 50%.</td>
+</tr>
 </tr>
   </thead>
   <tbody>
