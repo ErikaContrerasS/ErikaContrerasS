@@ -134,7 +134,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/erika-julieth-contreras-castillo-a6456235b/">
+<a href="https://www.linkedin.com/in/ing-erika-julieth-contreras-castillo/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/ErikaContrerasS">
